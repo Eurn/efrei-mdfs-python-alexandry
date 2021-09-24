@@ -2,32 +2,31 @@
     "books": [
         {
             "id": 0,
-            "title": "TITLE F2",
-            "author": "AUTHOR F",
+            "title": "Harry Pother",
+            "author": "J K Rowling",
             "first_sentence": "FS F",
-            "year_published": "1992",
-            "published": "P F"
+            "published": ""
         },
         {
             "id": 2,
-            "title": "Dhalgren",
+            "title": "Comment rater sa vie ?",
             "author": "Samuel R. Delany",
             "first_sentence": "to wound the autumnal city.",
             "published": "1975"
         },
         {
             "id": 3,
-            "title": "Monster",
-            "first_sentence": "EL FUEGO DEL MONSIEUR FINTA",
-            "author": "Ivan",
-            "published": "6"
+            "title": "Recette de chouquette",
+            "first_sentence": "aller à la boulangerie. Fin",
+            "author": "Majdi Toumi",
+            "published": "2021"
         },
         {
             "id": 4,
-            "title": "TITLE F2",
-            "first_sentence": "FS F",
-            "author": "AUTHOR F",
-            "published": "P F"
+            "title": "One piece",
+            "first_sentence": "KAIZOKU NI ORE WA NARU",
+            "author": "Eichiro Oda",
+            "published": "1999"
         }
     ]
 }
