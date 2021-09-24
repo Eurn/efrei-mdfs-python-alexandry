@@ -1,6 +1,6 @@
 # efrei-mdfs-python-alexandry
 
-Bonjour voici le projet Python Alexandry de Soufiane et moi
+Bonjour voici le projet Python Alexandry de Soufian et moi
 
 Nous avons réalisé ce projet à l'aide de la librairie Flask, sqlite ainsi que json.
 
